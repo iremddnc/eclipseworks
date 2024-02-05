@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BreadStore_20210808041 {
+public class BreadStore {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

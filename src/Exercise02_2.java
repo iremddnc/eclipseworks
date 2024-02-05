@@ -1,5 +1,5 @@
 
-public class Exercise02_20210808041 {
+public class Exercise02_2 {
 
 	public static void swap(int[] array, int i, int j) {
 	        int temp = array[i];

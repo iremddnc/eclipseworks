@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Quiz1_20210808041 {
+public class Quiz1_ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 //@author İrem DİNÇ
 //@date 30.05.2023
-public class Assignment03_20210808041 {
+public class Assignment03 {
     public static void main (String[]args ){
         Store s1 = new Store("Migros","www.migros.com.tr");
         Store s2 = new Store("Bim","www.bim.com.tr");

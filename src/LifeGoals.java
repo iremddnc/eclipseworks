@@ -1,4 +1,4 @@
-public class LifeGoals_20210808041 {
+public class LifeGoals {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

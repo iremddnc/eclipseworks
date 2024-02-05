@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TwoItemStore_20210808041 {
+public class TwoItemStore {
 
 	public static void main(String[] args) {
 		// author İrem DİNÇ

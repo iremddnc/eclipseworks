@@ -1,5 +1,5 @@
 
-public class Exercise03_20210808041 {
+public class Exercise03_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

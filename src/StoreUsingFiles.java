@@ -10,7 +10,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class StoreUsingFiles_20210808041 {
+public class StoreUsingFiles {
 	//author İremDİNÇ
     //date 25.12.2022
   public static int countProducts(String file) {

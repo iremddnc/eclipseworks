@@ -9,7 +9,7 @@ import java.util.Objects;
 import java.util.Queue;
 import java.util.Set;
 
-public class Ex10_20210808041 {
+public class Ex10_ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class StoreUsingArrays_20210808041{
+public class StoreUsingArrays{
 	//author İremDİNÇ
 	//date 04.12.2022
     public static Scanner scan = new Scanner(System.in);

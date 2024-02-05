@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Ex11_20210808041 {
+public class Ex11 {
 
 	
 	public static void main(String[] args) {
